@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Depth of Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://abdullahportfolio.thewebta.com/](https://abdullahportfolio.thewebta.com/)
+- 👨‍💻 All of my projects are available at [https://abdullahportfolio.thewebta.com/](https://abdullah-works.vercel.app/)
 
 - 📝 I regularly write articles on [https://successspectra.blogspot.com/](https://successspectra.blogspot.com/)
 
